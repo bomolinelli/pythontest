@@ -1,5 +1,7 @@
 # Open source practice
 
+[![](https://github.com/davidaguinada/pythontest/workflows/tests/badge.svg)](https://github.com/davidaguinada/pythontest/actions?query=workflow%3Atests)
+
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 
 <img src=img/meme.jpg width=300px />
